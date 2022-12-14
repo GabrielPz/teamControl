@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "teamControl",
-    "slug": "teamControl",
+    "slug": "teamcontrol",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b7979601-69f1-4284-a0a4-92d1ee5a8bed"
+      }
+    },
+    "owner": "gabrielpz"
   }
 }
